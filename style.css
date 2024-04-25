@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER NAVBAR */
+
+#header_site {
+    display: flex;
+    background-color: #043947;
+    padding: 10px;
+}
+
+#header_site ul{
+    list-style-type: none;
+}
+
+#header_site ul li{
+     float: left;
+    padding-right: 10px;
+}
+
+#header_site ul li a{
+    color: #01a1df;
+}
+
+/* BANNIERE SITE */
+
+#banniere_site {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('images/banniere.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #01a1df;
+    padding: 10px;
+    text-align: center;
+}
+
+/* VEHICULES SITE */
+
+#vehicules_site #vehicules{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+#vehicules_site #vehicules .vehicule img{
+    width: 200px;
+    margin: 10px;
+}
+
+/* QUI SOMMES NOUS */
+
+
+
+
+/* NOS VALEURS */
+
+
+
+
+/* FOOTER */
+
+#footer_site {
+    text-align: center;
+    background-color: #043947;
+    color: #01a1df;
+    padding: 10px;
+}
