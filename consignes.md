@@ -23,4 +23,4 @@ Vous pouvez consulter la charte graphique en consultant `charte_graphique.png` p
 7. Le CSS sera la partie la plus importante et modifiée du projet, cependant vous pouvez modifier le HTML et revoir la structure du projet si vous le jugez nécessaire.
 8. N'hésitez pas à ajouter des fonctionnalités/animations et proposer des idées supplémentaires au client si vous le souhaitez.
 
-## Bonne chance !
+## Bonne chance !!
