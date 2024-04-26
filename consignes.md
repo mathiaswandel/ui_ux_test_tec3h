@@ -1,5 +1,10 @@
 # Test UI/UX tec3h
 
+## Mise en place
+Faites un fork de ce repository puis téléchargez-le.
+Ensuite, vous pouvez commencer l'exercice. Modifiez le code comme bon vous semble.
+Une fois terminé, vous pouvez faire un pull request depuis votre fork afin de nous transmettre votre travail.
+
 ## Contexte
 Vous êtes un développeur front-end chez tec3h, une entreprise de développement web. Vous avez été assigné à un projet de développement d'un site web pour une entreprise de vente de voitures d'occasion. L'objectif du site web est de permettre aux internautes d'en apprendre d'avantage sur l'entreprise, de consulter les voitures disponibles à la vente et de prendre contact avec l'entreprise pour obtenir plus d'informations.
 
