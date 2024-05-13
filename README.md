@@ -14,7 +14,8 @@ Un développeur amateur a commencé à travailler sur le projet, mais il a aband
 
 ## Consignes
 
-Vous pouvez consulter la charte graphique en consultant `charte_graphique.png` présent à la racine du projet.
+Voici la charte graphique du projet (`charte_graphique.png` à la racine du projet).
+![Charte graphique](charte_graphique.png)
 
 1. Reprenez le travail là où le développeur amateur s'est arrêté.
 2. Vous devez terminer le projet en respectant la charte graphique fournie par l'entreprise.
@@ -26,3 +27,4 @@ Vous pouvez consulter la charte graphique en consultant `charte_graphique.png` p
 8. N'hésitez pas à ajouter des fonctionnalités/animations et proposer des idées supplémentaires au client si vous le souhaitez.
 
 ## Bonne chance !
+```
