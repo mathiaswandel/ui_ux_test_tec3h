@@ -1,9 +1,11 @@
 # Test UI/UX tec3h
 
 ## Mise en place
-Faites un fork de ce repository puis téléchargez-le.
-Ensuite, vous pouvez commencer l'exercice. Modifiez le code comme bon vous semble.
-Une fois terminé, nous irons voir votre fork et nous regarderons ce que vous avez fait.
+Téléchargez le projet sur github en utilisant le lien suivant : [https://github.com/mathiaswandel/ui_ux_test_tec3h](https://github.com/mathiaswandel/ui_ux_test_tec3h) ou en clonant le projet avec la commande suivante :
+```bash
+git clone https://github.com/mathiaswandel/ui_ux_test_tec3h
+```
+Une fois que vous avez terminé vos modifications, vous pouvez nous envoyer votre travail en compressant le projet et en nous l'envoyant par email à l'adresse suivante : [mathiasw@tec3h.fr](mailto:mathiasw@tec3h.fr)
 
 ## Contexte
 Vous êtes un développeur front-end chez tec3h, une entreprise de développement web. Vous avez été assigné à un projet de développement d'un site web pour une entreprise de vente de voitures d'occasion. L'objectif du site web est de permettre aux internautes d'en apprendre d'avantage sur l'entreprise, de consulter les voitures disponibles à la vente et de prendre contact avec l'entreprise pour obtenir plus d'informations.
