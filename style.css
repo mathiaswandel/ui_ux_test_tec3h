@@ -7,9 +7,7 @@ body {
 /* HEADER NAVBAR */
 
 #header_site {
-    display: flex;
-    background-color: #043947;
-    padding: 10px;
+    display: inline-block;
 }
 
 #header_site ul{
@@ -22,7 +20,7 @@ body {
 }
 
 #header_site ul li a{
-    color: #01a1df;
+    color: #ab7f8e;
 }
 
 /* BANNIERE SITE */
@@ -35,7 +33,7 @@ body {
     background-image: url('images/banniere.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
-    color: #01a1df;
+    color: #49a8ae;
     padding: 10px;
     text-align: center;
 }
@@ -43,10 +41,7 @@ body {
 /* VEHICULES SITE */
 
 #vehicules_site #vehicules{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
+
 }
 
 #vehicules_site #vehicules .vehicule img{
@@ -69,6 +64,6 @@ body {
 #footer_site {
     text-align: center;
     background-color: #043947;
-    color: #01a1df;
+    color: #49a8ae;
     padding: 10px;
 }
